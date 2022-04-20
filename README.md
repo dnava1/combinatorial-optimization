@@ -20,3 +20,4 @@
 250 150
 
 ### 12 points or more will take a large amount of time due to the exhaustive search.
+#### Please make sure the input file has no empty lines
